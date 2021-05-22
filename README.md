@@ -16,7 +16,7 @@ Graduate student in "Scientific Computing" with comprehensive knowledge in data 
 
 ### Featured Projects
 |   Projects    |   Tech Stack  |
-|---------------|---------------|-------------------|
+|---------------|---------------|
 |   [Research Portfolio Website](https://github.com/akshayjoshii/akshayjoshii.github.io)    |   Hugo, HTML, CSS, JS, Markdown, Python, Netlify, Cloudflare, CI/CD   |
 |   [Socket Programming - File Transfer Simulation with Integrity Check](https://github.com/akshayjoshii/socket_programming)    |   Python, Hashlib, Socket Programming, TCP   |
 |   [Covid-19 Tweets Sentiment & Exploratory Data Analysis with LSTM and Denoising Autoencoder](https://github.com/akshayjoshii/COVID19-Tweet-Sentiment-Analysis-and-EDA)   |   Python, NLTK, NumPy, Scikit-learn, XGBoost, PyTorch, Docker |

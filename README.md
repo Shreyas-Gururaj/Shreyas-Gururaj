@@ -1,7 +1,7 @@
 ## About Me
 Graduate student in "Scientific Computing" with comprehensive knowledge in data analysis and deep learning, high performance computing, numerical simulations. Extensive work experience as an automotive design engineer.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](www.linkedin.com/in/shreyas-gururaj)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/shreyas-gururaj/)
 [![Résumé](https://img.shields.io/badge/Résumé%2FCV-%20-brightgreen)](https://drive.google.com/file/d/1V4G881HuM2F_ZhLlTGOx-c5XclEg4vcB/view?usp=sharing)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Shreyas-Gururaj.visitor-badge)
 

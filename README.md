@@ -6,11 +6,9 @@ Graduate student in "Scientific Computing" with comprehensive knowledge in data 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Shreyas-Gururaj.visitor-badge)
 
 ### GitHub Stats
+
 <a href="https://github.com/Shreyas-Gururaj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-Gururaj&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Akshay's Programming Language Stats" />
-</a>
-<a href="https://github.com/Shreyas-Gururaj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreyas-Gururaj&show_icons=true&line_height=27&hide=contribs,prs,issues&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Akshay's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreyas-Gururaj&show_icons=true&line_height=27&hide=contribs,prs,issues&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Shreyas's GitHub Stats" />
 </a>
 
 ### Featured Projects
